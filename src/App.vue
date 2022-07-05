@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-    🆗1
-    <h2>app组件</h2>
+    <!-- <i class="toutiao toutiao-wode"></i>
+    <i class="toutiao toutiao-shipin"></i> -->
+
     <router-view></router-view>
   </div>
 </template>
